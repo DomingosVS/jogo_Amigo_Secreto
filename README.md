@@ -1,7 +1,7 @@
 # jogo_Amigo_Secreto
 Um aplicativo simples de Amigo Secreto feito em HTML, CSS e JavaScript, que permite adicionar participantes e sortear quem tirou quem de forma automática e segura.
 
-Funcionalidades
+#Funcionalidades
 Adicionar nomes dos participantes.
 Evitar nomes duplicados ou campos vazios.
 Sortear os amigos secretos garantindo que ninguém tire a si mesmo.
@@ -10,9 +10,11 @@ Tecnologias Utilizadas
 HTML5
 CSS3
 JavaScript (ES6+)
-Estrutura do Projeto
+
+#Estrutura do Projeto
 /amigo-secreto │ ├─ index.html # Página principal ├─ style.css # Estilos visuais ├─ app.js # Lógica do jogo └─ assets/ # Imagens e ícones usados
-Como Usar
+
+#Como Usar
 Abra o arquivo index.html no navegador.
 Digite os nomes dos participantes no campo de input e clique em Adicionar.
 Quando todos os participantes estiverem adicionados, clique em Sortear amigo.
