@@ -12,7 +12,11 @@ CSS3
 JavaScript (ES6+)
 
 #Estrutura do Projeto
-/amigo-secreto │ ├─ index.html # Página principal ├─ style.css # Estilos visuais ├─ app.js # Lógica do jogo └─ assets/ # Imagens e ícones usados
+/amigo-secreto │ ├─ index.html 
+# Página principal 
+_ style.css # Estilos visuais 
+_ app.js # Lógica do jogo 
+_ assets/ # Imagens e ícones usados
 
 #Como Usar
 Abra o arquivo index.html no navegador.
